@@ -1,0 +1,1 @@
+--prefix as we have to run it in the client folder
