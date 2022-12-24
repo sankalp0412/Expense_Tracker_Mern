@@ -1,0 +1,1 @@
+to use body parser and use req.body in add transactions 
