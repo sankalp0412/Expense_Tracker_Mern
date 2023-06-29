@@ -1,0 +1,1 @@
+const BASE_URL = 'https://expense-tracker-rj10.onrender.com'
